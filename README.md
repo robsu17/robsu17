@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Moro em Sobral, Ceará, Brasil<br><br>- 📚 Ciências da Computação - UEVA<br>- ⚡ Aprendendo tecnologias Web</p>
+<p align="left">Sobral, Ceará, Brasil<br><br>- 📚 Ciências da Computação - UEVA<br>- ⚡ Aprendendo tecnologias Web</p>
 
 ###
 
