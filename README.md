@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Robson 😎️!<br>Sou desenvolvedor web 💻️</h2>
+<h2 align="left">Olá, meu nome é Robson 😎️!<br>Sou desenvolvedor fullstack 💻️</h2>
 
 ###
 
